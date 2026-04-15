@@ -1,0 +1,25 @@
+{
+  "name": "ad-eval",
+  "description": "Evaluate submissions with rubrics, scorecards, and resume screening.",
+  "author": {
+    "name": "Accelerate Data"
+  },
+  "repository": "https://github.com/accelerate-data/eval-skills",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "evaluation",
+    "rubrics",
+    "codex",
+    "claude-code"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Eval Skills",
+    "shortDescription": "Evaluation and rubric-based assessment skills.",
+    "developerName": "Accelerate Data",
+    "category": "Education",
+    "capabilities": [],
+    "screenshots": []
+  }
+}
