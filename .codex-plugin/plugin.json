@@ -1,13 +1,15 @@
 {
-  "name": "ad-eval",
-  "description": "Evaluate submissions with rubrics, scorecards, and resume screening.",
+  "name": "ad-hiring",
+  "description": "Screen candidates, grade hiring assessments, and evaluate submissions with rubrics and scorecards.",
   "author": {
     "name": "Accelerate Data"
   },
-  "repository": "https://github.com/accelerate-data/eval-skills",
+  "repository": "https://github.com/accelerate-data/hiring-skills",
   "license": "MIT",
   "keywords": [
     "skills",
+    "hiring",
+    "screening",
     "evaluation",
     "rubrics",
     "codex",
@@ -15,10 +17,10 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Eval Skills",
-    "shortDescription": "Evaluation and rubric-based assessment skills.",
+    "displayName": "Hiring Skills",
+    "shortDescription": "Candidate screening and rubric-based hiring assessments.",
     "developerName": "Accelerate Data",
-    "category": "Education",
+    "category": "Hiring",
     "capabilities": [],
     "screenshots": []
   }

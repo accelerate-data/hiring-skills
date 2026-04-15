@@ -1,12 +1,12 @@
 {
   "generated_at": "2026-04-15T00:00:00Z",
-  "repo_root": "eval-skills",
+  "repo_root": "hiring-skills",
   "primary_languages": ["Markdown", "JSON"],
   "applications": [
     {
-      "name": "eval-skills plugin",
+      "name": "hiring-skills plugin",
       "type": "shared plugin source",
-      "description": "Single plugin-source repository with Claude and Codex manifests, canonical skills under skills/. Combines capstone evaluation and resume screening."
+      "description": "Single plugin-source repository with Claude and Codex manifests, canonical skills under skills/. Screen candidates, grade hiring assessments, and evaluate submissions with rubrics and scorecards."
     }
   ],
   "modules": {

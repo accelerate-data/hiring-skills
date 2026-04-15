@@ -1,6 +1,6 @@
-# Eval Skills
+# Hiring Skills
 
-Evaluate submissions with rubrics, scorecards, and resume screening.
+Screen candidates, grade hiring assessments, and evaluate submissions with rubrics and scorecards.
 
 ## Skills
 
@@ -15,7 +15,7 @@ Evaluate submissions with rubrics, scorecards, and resume screening.
 ## Install
 
 ```bash
-claude plugin add accelerate-data/eval-skills
+claude plugin add accelerate-data/hiring-skills
 ```
 
 ## Local development

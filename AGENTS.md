@@ -1,6 +1,6 @@
-# Eval Skills Plugin
+# Hiring Skills Plugin
 
-Shared plugin repository for evaluation and assessment skills used by Claude Code and Codex.
+Shared plugin repository for candidate screening and hiring assessment skills used by Claude Code and Codex.
 
 **Maintenance rule:** This file contains durable repository guidance, not volatile inventory.
 
@@ -12,7 +12,7 @@ Shared plugin repository for evaluation and assessment skills used by Claude Cod
 
 ## Repository Purpose
 
-Single plugin-source repo for evaluation skills, combining capstone evaluation and resume screening.
+Single plugin-source repo for hiring skills — candidate screening, assessment grading, and rubric-based evaluation.
 
 - Root manifests: `.claude-plugin/plugin.json` and `.codex-plugin/plugin.json`
 - Canonical skill content: `skills/`
