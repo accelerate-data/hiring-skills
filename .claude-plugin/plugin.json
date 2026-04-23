@@ -1,7 +1,7 @@
 {
   "name": "hiring-skills",
   "description": "Screen candidates, grade hiring assessments, and evaluate submissions with rubrics and scorecards.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": {
     "name": "Accelerate Data"
   },
