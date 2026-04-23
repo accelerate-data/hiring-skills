@@ -67,7 +67,7 @@ def validate_version_bump(base_ref: str, root: Path) -> list[str]:
         return [str(exc)]
 
     base_claude = git_show_json(base_ref, CLAUDE_MANIFEST, root)
-    if not base_claude:
+    if base_claude is None:
         print(f"No base {CLAUDE_MANIFEST} found at {base_ref}; skipping version comparison.")
         return []
 
